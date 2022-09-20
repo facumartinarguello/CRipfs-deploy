@@ -12,7 +12,7 @@ function App() {
         <span className="Big-plus">+</span>
         <img src={reactLogo} className="React-logo" alt="react-logo" />
         <p>
-          React App deployed on IPFS through Fleek for BE Protocol  the 1 worldwide G-FI Fractal .
+          React App deployed on IPFS through Fleek for Blo .
         </p>
         <a
           className="App-link"
@@ -20,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         React+Fleek+G-FI: Boom!!
+         React+Fleek+blo: Boom!!
         </a>
       </header>
     </div>
